@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus_2", "Nexus_2\Nexus_2.csproj", "{64DC836D-1A98-4F59-BB6B-7E4B54FE5BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DC836D-1A98-4F59-BB6B-7E4B54FE5BF9}.Debug|x64.ActiveCfg = Debug|x64
+		{64DC836D-1A98-4F59-BB6B-7E4B54FE5BF9}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133C7855-7BA0-4924-963B-09B507D5C7AE}
+	EndGlobalSection
+EndGlobal
