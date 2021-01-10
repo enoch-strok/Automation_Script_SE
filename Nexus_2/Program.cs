@@ -40,6 +40,6 @@ namespace IngameScript
 
             light.Enabled = false;
 
-        }
     }
+}
 }
